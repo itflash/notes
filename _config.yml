@@ -12,6 +12,10 @@ theme_mode: light
 
 defaults:
   - scope:
+      path: "_posts"
+    values:
+      layout: post
+  - scope:
       path: ""
     values:
       layout: page
