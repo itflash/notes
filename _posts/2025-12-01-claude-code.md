@@ -2,7 +2,6 @@
 title: Claude Code
 categories: [cli]
 tags: [cli, claude, tool]
-permalink: /cli/claude-code/
 toc: true
 ---
 
