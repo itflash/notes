@@ -5,7 +5,6 @@ tags: [cli, claude, tool]
 toc: true
 ---
 
-# Claude Code
 
 ## 常用命令
 
