@@ -1,27 +1,19 @@
 title: Notes
-description: 个人笔记
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "mint"
+tagline: 个人笔记
+description: 个人笔记库
+remote_theme: cotes2020/jekyll-theme-chirpy
 
-url: https://itflash.github.io
-baseurl: /notes
+url: "https://itflash.github.io"
+baseurl: "/notes"
 
-author:
-  name: "itflash"
+author: "itflash"
+
+theme_mode: light
 
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
-      layout: single
-      read_time: true
-  - scope:
-      path: ""
-    values:
-      layout: single
+      layout: page
 
-search: true
-
-plugins:
-  - jekyll-include-cache
+toc: true

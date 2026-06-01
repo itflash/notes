@@ -1,12 +1,9 @@
 ---
 title: Claude Code
-categories:
-  - cli
-tags:
-  - cli
-  - claude
-  - tool
+categories: [cli]
+tags: [cli, claude, tool]
 permalink: /cli/claude-code/
+toc: true
 ---
 
 # Claude Code

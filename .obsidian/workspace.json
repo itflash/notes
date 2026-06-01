@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cli/index.md",
+                "file": "cli/claude-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "claude-code"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cli/index.md",
+                "file": "cli/claude-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "claude-code 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cli/index.md",
+                "file": "cli/claude-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "claude-code 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cli/index.md",
+                "file": "cli/claude-code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "claude-code 的大纲"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "7a9604f5a044d942",
   "lastOpenFiles": [
+    "cli/index.md",
+    "_tabs/cli.md",
+    "_tabs/home.md",
+    "_tabs",
     "_data/navigation.yml",
     "_data",
     "cli/claude-code.md",
