@@ -1,7 +1,12 @@
 ---
 title: Claude Code
-parent: CLI
-nav_order: 1
+categories:
+  - cli
+tags:
+  - cli
+  - claude
+  - tool
+permalink: /cli/claude-code/
 ---
 
 # Claude Code

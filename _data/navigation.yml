@@ -1,0 +1,6 @@
+main:
+  - title: "CLI"
+    url: /cli/
+    children:
+      - title: "Claude Code"
+        url: /cli/claude-code/

@@ -1,18 +1,27 @@
 title: Notes
 description: 个人笔记
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "mint"
 
 url: https://itflash.github.io
 baseurl: /notes
 
-aux_links:
-  "GitHub":
-    - "https://github.com/itflash/notes"
+author:
+  name: "itflash"
 
-back_to_top: true
-back_to_top_text: "回到顶部"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+  - scope:
+      path: ""
+    values:
+      layout: single
 
-search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
+search: true
+
+plugins:
+  - jekyll-include-cache

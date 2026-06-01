@@ -1,7 +1,8 @@
 ---
 title: CLI
-has_children: true
-nav_order: 2
+categories:
+  - cli
+permalink: /cli/
 ---
 
 # CLI
