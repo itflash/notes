@@ -1,7 +1,7 @@
 title: Notes
 tagline: 个人笔记
 description: 个人笔记库
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 url: "https://itflash.github.io"
 baseurl: "/notes"
@@ -17,3 +17,7 @@ defaults:
       layout: page
 
 toc: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
