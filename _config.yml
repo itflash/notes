@@ -21,3 +21,14 @@ toc: true
 sass:
   sass_dir: _sass
   style: compressed
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
